@@ -1,0 +1,40 @@
+{
+  "folders": [
+    {
+      "key": "b0ffd57d08bd352ab40c",
+      "color": "#B013A4",
+      "name": "WEB前端"
+    },
+    {
+      "key": "1a62ab8a54c5c51c4a40",
+      "color": "#E10051",
+      "name": "数据结构和算法"
+    },
+    {
+      "key": "d7d2adf111f398238676",
+      "color": "#3FD941",
+      "name": "PHP"
+    },
+    {
+      "key": "f9d1ffb773ff1875c02e",
+      "color": "#E10051",
+      "name": "Java"
+    },
+    {
+      "key": "0f96166958aca38365b0",
+      "color": "#2BA5F7",
+      "name": "C/C++"
+    },
+    {
+      "key": "711f1acaa74b205dc0d2",
+      "color": "#30D5C8",
+      "name": "数据库"
+    },
+    {
+      "key": "21b0daaf3dfebe8f3155",
+      "color": "#E10051",
+      "name": "UML"
+    }
+  ],
+  "version": "1.0"
+}
